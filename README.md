@@ -10,4 +10,4 @@ Projeto que utiliza a bilbioteca Node - Puppeteer para fazer web scraping e sele
 * Backend: API RESTful feita em NodeJS que oferece enpoints para retornar as informações do produto (descrição, preço e imagem) de acordo com a URL fornecida.
 * Frontend: aplicação em ReactJS para consumir o backend.
 
-## 💻 (Projeto em Desenvolvimento)
+## 💻 (Projeto em Desenvolvimento...)
